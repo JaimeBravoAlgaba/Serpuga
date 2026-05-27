@@ -1,0 +1,34 @@
+Conversión de Solid Edge en FBX
+Fecha: lunes,octubre 06,2025 12:29
+Archivo de salida: D:\Proyectos\Serpuga2\V3\Manufacturing\PSM07\PSM07.fbx
+Autor: Desconocido
+Organización: Desconocido
+Sistema fuente: SOLID EDGE
+
+Hardware:
+Procesador: AMD Ryzen 7 5800X 8-Core Processor             
+Sistema operativo: Windows 10 Professional
+Memoria instalada: 31.92 GB
+
+Información sobre el software:
+Versión de Parasolid: 36.0.142
+Versión de PSBodyShop: 36.0.108
+Versión del adaptador FBX: 13.0.209
+Versión de Solid Edge: 224.00.00.101 x64
+
+Opciones de exportación de FBX:
+Exportar los sólidos de construcción: Desactivado
+Exportar las piezas visualizadas: Desactivado
+Exportar Superficies de construcción: Desactivado
+Habilitar registro de anotaciones: Activado
+Exportar texturas: Desactivado
+Exportar conjunto en fichero plano: On
+Exportar cuerpos sólidos y superficies de construcción, si no hay cuerpos de diseño:Desactivado
+Unidades de exportación: Centimeters
+Valor de la tolerancia de exportación:1.250000
+Tipo de tolerancia de exportación: Custom
+Valor del ángulo plano de superficie de exportación:0.523599
+
+Avance en la conversión:
+Se completó el proceso de conversión
+Tiempo necesario para convertir:00 : 00 : 00
