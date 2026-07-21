@@ -1,13 +1,13 @@
 Conversión de Solid Edge a STEP
-Fecha: martes,octubre 07,2025 10:37
-Archivo de salida: D:\Proyectos\Serpuga2\V3\Manufacturing\PSM02\PSM02.stp
+Fecha: martes,junio 02,2026 12:27
+Archivo de salida: D:\Proyectos\Serpuga2\Serpuga\partes\Manufacturing\PSM02\PSM02.stp
 Autor: Unknown
 Organización: Unknown
 Sistema de origen: Solid Edge
 
 Equipo:
 Procesador: AMD Ryzen 7 5800X 8-Core Processor             
-Sistema operativo: Windows 11 Professional Version:24H2 Build:26100 System Type:64-bit
+Sistema operativo: Windows 11 Professional Version:25H2 Build:26200 System Type:64-bit
 Memoria instalada: 31.92 GB
 
 Información del programa
@@ -28,4 +28,4 @@ Exportar PMI: Desactivado
 
 Fase 1 de 1 Convirtiendo Parasolid a tipos de datos externos...
 Proceso de conversión completado
-Tiempo requerido para convertir:00 : 00 : 01
+Tiempo requerido para convertir:00 : 00 : 00
